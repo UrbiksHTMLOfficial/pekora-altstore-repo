@@ -1,0 +1,119 @@
+{
+  "name": "Pekora",
+  "subtitle": "The UNOFFICIAL Pekora Altstore Source",
+  "description": "",
+  "iconURL": "https://i.imgur.com/VEmLqua.png",
+  "website": "https://pekora.zip",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/bzS5Hs7.png",
+  "apps": [
+    {
+      "name": "Pekora (2017)",
+      "bundleIdentifier": "com.roblox.robloxmobile2017",
+      "marketplaceID": "",
+      "developerName": "Pekora",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/1lXLthJ.png",
+      "tintColor": "#98e81c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://setup.pekora.zip/Pekora2018.ipa",
+          "size": 99000000,
+          "version": "2.354.238701",
+          "buildVersion": null,
+          "date": "2025-07-21T13:58:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Roblox needs access to your camera to pair your phone with your viewer for the best experience.",
+          "NSContactsUsageDescription": "We'll need access to your contacts to search for your friends on Roblox.",
+          "NSHumanReadableCopyright": "2014 ROBLOX Inc.",
+          "NSMicrophoneUsageDescription": "Roblox needs access to the microphone",
+          "NSMotionUsageDescription": "Roblox needs access to the accelerometer to enhance your play experience.",
+          "NSPhotoLibraryUsageDescription": "Roblox needs access to your photos to enhance your play experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Pekora (2018)",
+      "bundleIdentifier": "com.roblox.robloxmobile2018",
+      "marketplaceID": "",
+      "developerName": "Pekora",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/Pa6RkJ0.png",
+      "tintColor": "#98e81c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://setup.pekora.zip/Pekora2017.ipa",
+          "size": 99000000,
+          "version": "2.354.238701",
+          "buildVersion": null,
+          "date": "2025-07-21T10:56:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Roblox needs access to your camera to pair your phone with your viewer for the best experience.",
+          "NSContactsUsageDescription": "We'll need access to your contacts to search for your friends on Roblox.",
+          "NSHumanReadableCopyright": "2014 ROBLOX Inc.",
+          "NSMicrophoneUsageDescription": "Roblox needs access to the microphone",
+          "NSMotionUsageDescription": "Roblox needs access to the accelerometer to enhance your play experience.",
+          "NSPhotoLibraryUsageDescription": "Roblox needs access to your photos to enhance your play experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Pekora (2020)",
+      "bundleIdentifier": "com.roblox.robloxmobile2020",
+      "marketplaceID": "",
+      "developerName": "Pekora",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/SXPDMUR.png",
+      "tintColor": "#72728c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://setup.pekora.zip/Pekora2020.ipa",
+          "size": 70300000,
+          "version": "2.443.409841",
+          "buildVersion": null,
+          "date": "2025-07-21T13:54:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Roblox needs access to your microphone to find players around you.",
+          "NSMotionUsageDescription": "Roblox needs access to the accelerometer to enhance your play experience.",
+          "NSPhotoLibraryUsageDescription": "Roblox needs access to your photos to enhance your play experience.",
+          "NSContactsUsageDescription": "You agree that we will access and collect the names of your contacts and their phone numbers and other contact information, so that we can connect you to your friends as they join Roblox. To learn more, go to https://www.roblox.com/info/privacy.",
+          "NSHumanReadableCopyright": "2014 ROBLOX Inc.",
+          "NSCameraUsageDescription": "Roblox needs access to your camera to pair your phone with your viewer for the best experience."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
